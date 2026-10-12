@@ -31,6 +31,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0367-valid-perfect-square](https://github.com/keshavraj936/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavraj936/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/keshavraj936/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/keshavraj936/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/keshavraj936/Leetcode/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavraj936/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/keshavraj936/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
