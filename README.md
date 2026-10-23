@@ -73,6 +73,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0191-number-of-1-bits](https://github.com/keshavraj936/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/keshavraj936/Leetcode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/keshavraj936/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavraj936/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/keshavraj936/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
@@ -113,6 +114,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keshavraj936/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/keshavraj936/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/keshavraj936/Leetcode/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
@@ -125,6 +127,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0125-valid-palindrome](https://github.com/keshavraj936/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keshavraj936/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/keshavraj936/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/keshavraj936/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/keshavraj936/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavraj936/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -153,6 +156,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keshavraj936/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/keshavraj936/Leetcode/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
